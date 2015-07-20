@@ -1,7 +1,7 @@
 # Maintainer: Pekman
 # PKGBUILD Based in Iceweasel-bin
 
-# We're getting this from Debian Stable (Wheezy)
+# We're getting this from Debian Stable (Jessie)
 
 _debname=iceweasel
 _debver=31.8.0esr
